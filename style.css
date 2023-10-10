@@ -1,10 +1,8 @@
-:root{
-    --cor-de-fundo: #0ff645;
-    --branco: #fff;
-    --font-principal: "poppins";
-    --font-secundaria: "Josefin Sans";
-    --preto: #0a0a0a;
-
-
+.cabecalho {
+    
+    color: rgb(214, 16, 16);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
 }
-
