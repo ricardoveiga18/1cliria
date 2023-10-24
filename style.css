@@ -1,8 +1,15 @@
 .cabecalho {
-    
-    color: rgb(214, 16, 16);
+    color: #370aec;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px 0;
+    padding: 24px o;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.imagem{
+    width: 20%;
 }
